@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=cbgz121 alt=cbgz121 /> </p>
 
-<a href="https://github.com/cbgz121">
+<!-- <a href="https://github.com/cbgz121">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cbgz121&show_icons=true&include_all_commits=true" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/cbgz121">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbgz121&layout=compact" />
 </a> -->
