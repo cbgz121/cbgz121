@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{cbgz121}/count.svg" alt="cbgz121 :: Visitor's Count" /></p>
+
 <!--
 **cbgz121/cbgz121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
