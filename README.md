@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-cbgz121-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cbgz121/)](https://www.github.com/cbgz121/)
+[![Mail Badge](https://img.shields.io/badge/-1173960494@qq.com?style=flat&logo=Gmail&logoColor=white&link=1173960494@qq.com)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-cbgz121-grey?style=flat&logo=github&logoColor=white&link=https://github.com/cbgz121/)](https://www.github.com/cbgz121/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=cbgz121 alt=cbgz121 /> </p>
 
